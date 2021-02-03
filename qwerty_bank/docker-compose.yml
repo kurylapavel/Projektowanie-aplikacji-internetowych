@@ -35,4 +35,4 @@ services:
         image: composer
         volumes:
             - .:/app
-            working_dir: /app
+        working_dir: /app
